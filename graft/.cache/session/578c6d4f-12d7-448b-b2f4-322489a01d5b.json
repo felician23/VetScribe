@@ -7,5 +7,6 @@
   "host": "claude-code",
   "lastBillingUuid": "1bb82872-7481-4f91-828f-e53d594eeb58",
   "inputCostMicros": 555165,
-  "inputTokensBilled": 388934
+  "inputTokensBilled": 388934,
+  "summarized": true
 }
